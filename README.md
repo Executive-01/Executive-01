@@ -28,7 +28,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-222222?style=for-the-badge&labelColor=black&logo=android&logoColor=00E676)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android 13](https://img.shields.io/badge/Android13-222222?style=for-the-badge&labelColor=black&logo=android&logoColor=00E676)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white)
