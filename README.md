@@ -9,11 +9,7 @@
    📧 &emsp;Email: bintanglangit1231@gmail.com<br/>
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283874505844?text=Halo%20Saya%20Lihat%20GitHub%20Kamu)
 </p>
-
 <br/>
-<br/>
-<br/>
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
